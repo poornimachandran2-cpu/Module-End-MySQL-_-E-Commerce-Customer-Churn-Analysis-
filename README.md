@@ -1,3 +1,5 @@
+This project presents a comprehensive customer churn analysis for an e-commerce business using MySQL. The workflow includes handling missing values, removing outliers, standardizing data, creating derived attributes, and performing analytical SQL queries to uncover churn patterns. The insights generated help identify factors contributing to customer attrition and provide data-driven recommendations for customer retention and business growth.
+
 # Module-End-MySQL-_-E-Commerce-Customer-Churn-Analysis-
 drop database ecomm;
 CREATE DATABASE ecomm;
